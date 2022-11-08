@@ -1,1 +1,1 @@
-# UglyMuckYC
+# UglyMuckYC | [![MythXBadge](https://badgen.net/https/api.mythx.io/v1/projects/be89eb7d-2486-41b9-a048-850020016dbe/badge/data?cache=300&icon=https://raw.githubusercontent.com/ConsenSys/mythx-github-badge/main/logo_white.svg)](https://docs.mythx.io/dashboard/github-badges)
